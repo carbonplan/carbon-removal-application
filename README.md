@@ -40,7 +40,7 @@ and then visit `http://localhost:3000` in your browser.
 
 ## license
 
-All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/) licensed, and the application markdown content is made available under a [CC0](https://choosealicense.com/licenses/cc-by-4.0/) license.
+All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/) licensed, and the application markdown and PDF content is [CC0](https://choosealicense.com/licenses/cc0-1.0/) licensed.
 
 ## about us
 
