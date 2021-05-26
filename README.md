@@ -9,6 +9,7 @@
 
 [![GitHub][github-badge]][github]
 ![MIT License][]
+![CC0 License][]
 
 [github]: https://github.com/carbonplan/carbon-removal-application
 [github-badge]: https://badgen.net/badge/-/github?icon=github&label
