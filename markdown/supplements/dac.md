@@ -1,5 +1,9 @@
-Application Supplement: DAC 
-(Only fill out this supplement if it applies to you)
+# Application Supplement: DAC 
+
+_(Made available under a CC0 license)_
+
+_Only fill out this supplement if it applies to you_
+
 Note: these questions are with regards only to air capture: e.g. your air contactors, sorbents or solvents, etc. Separately, there exist Geologic Injection and CO₂ Utilization supplements. We anticipate that most companies filling out this DAC supplement should ALSO fill out one of those supplements to describe their use of the CO₂ stream that’s an output of the capture system detailed here. 
 Physical Footprint 
 What is the physical land footprint of your project, and how do you anticipate this will change over the next few years? This should include your entire physical footprint, i.e., how much land is not available for other use because your project exists. 

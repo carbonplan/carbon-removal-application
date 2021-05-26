@@ -1,10 +1,9 @@
+# Application Supplement: Geologic Injection  
 
+_(Made available under a CC0 license)_
 
+_Only fill out this supplement if it applies to you_
 
-
-
-Application Supplement: Geologic Injection 
-(Only fill out this supplement if it applies to you)
 Feedstock and Use Case
 What are you injecting? Gas? Supercritical gas? An aqueous solution? What compounds other than C exist in your injected material? 
 <50 words

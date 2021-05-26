@@ -1,5 +1,9 @@
-Application Supplement: Surface Mineralization 
-(Only fill out this supplement if it applies to you)
+# Application Supplement: Surface Mineralization  
+
+_(Made available under a CC0 license)_
+
+_Only fill out this supplement if it applies to you_
+
 Source Material and Physical Footprint
 What source material are you using, and how do you procure it? 
 <100 words

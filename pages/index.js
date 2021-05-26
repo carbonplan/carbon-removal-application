@@ -4,6 +4,8 @@ import { Box, Themed, Link } from 'theme-ui'
 const Index = () => {
   return <Box sx={{width: '800px', mt: [5], mx: 'auto', fontSize: [5]}}>
     <Themed.h1>Carbon removal application</Themed.h1>
+    <Box sx={{fontStyle: 'italic', fontSize: [2]}}>(All content made available under a CC0 license)</Box>
+    <br/>
     <NextLink href='/general-application' passHref><Link>General Application</Link></NextLink>
     <br/>
     <NextLink href='/dac-supplement' passHref><Link>DAC Supplement</Link></NextLink>

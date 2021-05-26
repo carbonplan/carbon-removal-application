@@ -1,10 +1,10 @@
 import { ThemeProvider } from 'theme-ui'
 import { MDXProvider } from '@mdx-js/react'
-import { base } from '@theme-ui/presets'
+import { tailwind } from '@theme-ui/presets'
 
 const App = ({ Component, pageProps }) => {
   return (
-    <ThemeProvider theme={base}>
+    <ThemeProvider theme={tailwind}>
       <MDXProvider>
         <Component {...pageProps} />
       </MDXProvider>

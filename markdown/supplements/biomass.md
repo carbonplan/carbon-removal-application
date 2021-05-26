@@ -1,7 +1,9 @@
+# Application Supplement: Biomass
 
+_(Made available under a CC0 license)_
 
-Application Supplement: Biomass 
-(Only fill out this supplement if it applies to you)
+_Only fill out this supplement if it applies to you_
+
 Feedstock and Physical Footprint
 What type of biomass does your project rely on? 
 <100 words

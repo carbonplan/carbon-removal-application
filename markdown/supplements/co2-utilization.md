@@ -1,10 +1,9 @@
+# Application Supplement: CO₂ Utilization  
 
+_(Made available under a CC0 license)_
 
+_Only fill out this supplement if it applies to you_
 
-
-
-Application Supplement: CO₂ Utilization 
-(Only fill out this supplement if it applies to you)
 Feedstock 
 How do you source your CO₂, and from whom?
 <100 words

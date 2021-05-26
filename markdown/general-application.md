@@ -1,5 +1,7 @@
 # Carbon Removal Purchase Application
 
+_(Made available under a CC0 license)_
+
 ## General Application 
 
 _The General Application applies to everyone, all applicants should complete this_

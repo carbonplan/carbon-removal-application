@@ -1,8 +1,9 @@
+# Application Supplement: Ocean
 
+_(Made available under a CC0 license)_
 
+_Only fill out this supplement if it applies to you_
 
-Application Supplement: Ocean 
-(Only fill out this supplement if it applies to you)
 Physical Footprint
 Describe the geography of your deployment, its relationship to coastlines, shipping channels, other human or animal activity, etc.
 <200 words
