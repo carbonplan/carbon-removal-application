@@ -7,6 +7,13 @@
 
 **generic application for soliciting carbon removal procurement**
 
+[![GitHub][github-badge]][github]
+![MIT License][]
+
+[github]: https://github.com/carbonplan/carbon-removal-application
+[github-badge]: https://badgen.net/badge/-/github?icon=github&label
+[mit license]: https://badgen.net/badge/license/MIT/blue
+
 This repository contains an unbranded application for soliciting [carbon removal procurement](http://carbonplan.org/research/stripe-2021-insights). It is available in markdown format and released under a Creative Commons CC0 license, to maximize the potential for reuse and iteration. 
 
 The raw content is available in the [`markdown`](/markdown) folder. You can see it rendered [here](https://carbon-removal-application.carbonplan.org) via the simple web app also included in this repo.
