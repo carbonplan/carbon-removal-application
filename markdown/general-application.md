@@ -117,7 +117,6 @@ a) Please fill out the table below.
 </table>
 
 b) What are the upper and lower bounds on your permanence claimed above in 2(a)?
-Number/range
 
 <textarea rows='5' cols='50' placeholder='Number / range' />
 
@@ -241,7 +240,7 @@ a) Please fill out the table below to help us understand your system’s efficie
   </tr>
 </table>
 
-b) Provide a carbon balance or “process flow” diagram for your carbon removal solution, visualizing the numbers above in table 4(a). Please include all carbon flows and sources of energy, feedstocks, and emissions, with numbers wherever possible _(E.g. see the generic diagram below from the [CDR Primer](https://cdrprimer.org/), [Charm’s Stripe 2020 application](https://github.com/stripe/negative-emissions-source-materials/blob/master/Project%20Applications/Charm%20Industrial%20Project%20Application%202020.pdf)for a simple example, or [CarbonCure’s 2020 application](https://github.com/stripe/negative-emissions-source-materials/blob/master/Project%20Applications/CarbonCure%20Project%20Application%202020.pdf) for a more complex example)._ If you’ve had a third-party LCA performed, please link to it.
+b) Provide a carbon balance or “process flow” diagram for your carbon removal solution, visualizing the numbers above in table 4(a). Please include all carbon flows and sources of energy, feedstocks, and emissions, with numbers wherever possible _(E.g. see the generic diagram below from the [CDR Primer](https://cdrprimer.org/), [Charm’s Stripe 2020 application](https://github.com/stripe/negative-emissions-source-materials/blob/master/Project%20Applications/Charm%20Industrial%20Project%20Application%202020.pdf) for a simple example, or [CarbonCure’s 2020 application](https://github.com/stripe/negative-emissions-source-materials/blob/master/Project%20Applications/CarbonCure%20Project%20Application%202020.pdf) for a more complex example)._ If you’ve had a third-party LCA performed, please link to it.
 
 <textarea rows='10' cols='100' />
 
@@ -249,7 +248,7 @@ c) Please articulate and justify the boundary conditions you assumed above: why 
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-d) Please justify all numbers used in your diagram above. Are they solely modeled or have you measured them directly? Have they been independently measured? Your answers can include references to peer-reviewed publications, e.g. Climeworks LCA paper.
+d) Please justify all numbers used in your diagram above. Are they solely modeled or have you measured them directly? Have they been independently measured? Your answers can include references to peer-reviewed publications, e.g. [Climeworks' LCA paper](https://www.nature.com/articles/s41560-020-00771-9).
 
 <textarea rows='5' cols='50' placeholder='<200 words' />
 
@@ -370,7 +369,7 @@ b) Help us understand, in broad strokes, what’s included vs excluded in the co
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-c) List and describe **up to three** key upcoming milestones, with the latest no further than Q2 2023, that you’ll need to achieve in order to scale up the capacity of your approach.
+c) List and describe **up to three** key upcoming milestones that you’ll need to achieve in order to scale up the capacity of your approach.
 
 <table>
   <tr>

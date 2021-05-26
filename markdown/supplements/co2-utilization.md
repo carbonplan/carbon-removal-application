@@ -22,7 +22,7 @@ c) Do you have a pathway towards sourcing atmospheric CO₂ so as to achieve car
 
 ### 2) Utilization Methods
 
-a) How does your solution use and store CO₂? What is the gross CO₂ utilization rate? _(E.g. CO₂ is mineralized in Material at a rate of X tCO₂ (gross) / t storage material)._
+a) How does your solution use and store CO₂? What is the gross CO₂ utilization rate? _(E.g. CO₂ is mineralized in Material at a rate of X tCO₂ (gross) / t storage material)_
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 

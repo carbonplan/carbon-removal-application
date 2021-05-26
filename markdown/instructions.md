@@ -4,7 +4,7 @@ _(Made available under a CC0 license)_
 
 ## Instructions
 
-This application includes markdown content for a General Application as well as all category-specific supplements. All applicants fill out the General Application, as well as whichever supplements that apply to their approach. The application materials currently include supplements for DAC, Biomass, Surface Mineralization, Oceans, Geologic Injection, and CO₂ utilization. Projects may complete one or more supplements.
+This application includes markdown content for a General Application as well as all category-specific supplements. All applicants fill out the General Application, as well as whichever supplements apply to their approach. The application materials currently include supplements for DAC, Biomass, Surface Mineralization, Oceans, Geologic Injection, and CO₂ Utilization. Projects may complete one or more supplements.
 
 Using examples from Stripe’s CDR portfolio:
 

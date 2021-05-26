@@ -42,7 +42,7 @@ b) What is the volumetric footprint of your contactor? (How big is your physical
 <table>
   <tr>
     <th>Year</th>
-    <th>Land Footprint (km²)</th>
+    <th>Contactor Footprint (m3)</th>
   </tr>
   <tr>
     <td>2021</td>
@@ -78,7 +78,7 @@ c) What is its desorption capacity? _(grams CO₂ per grams material/cycle)_
 
 <textarea rows='5' cols='50' />
 
-d) How do you source your sorbent or solvent? Discuss how this sourcing strategy might change as your solutions scales. Note any externalities associated with the sourcing or manufacture of it (hazardous wastes, mining, etc. You should have already included the associated carbon intensities in your LCA in Section 6)
+d) How do you source your sorbent or solvent? Discuss how this sourcing strategy might change as your solutions scales. Note any externalities associated with the sourcing or manufacture of it (hazardous wastes, mining, etc. You should have already included the associated carbon intensities in your LCA in Section 6.)
 
 <textarea rows='5' cols='50' />
 
@@ -86,11 +86,11 @@ e) How do you cycle your sorbent/solvent?
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-f) What is your proposed source of energy? What is its assumed carbon intensity? How will this change over the duration of your project? (You should have already included the associated carbon intensities in your LCA in Section 6
+f) What is your proposed source of energy? What is its assumed carbon intensity? How will this change over the duration of your project? (You should have already included the associated carbon intensities in your LCA in Section 6.)
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-g) Besides energy, what other resources do you require in cycling (if any), e.g water? Where and how are you sourcing these resources, and what happens to them after they pass through your system? (You should have already included the associated carbon intensities in your LCA in Section 6)
+g) Besides energy, what other resources do you require in cycling (if any), e.g water? Where and how are you sourcing these resources, and what happens to them after they pass through your system? (You should have already included the associated carbon intensities in your LCA in Section 6.)
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 

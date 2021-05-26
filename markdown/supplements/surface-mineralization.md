@@ -16,7 +16,7 @@ b) Describe the ecological impacts of obtaining your source material. Is there a
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-c) Do you process that source mineral in any way (e.g grinding to increase surface area)? What inputs does this processing require (e.g. water, energy)? You should have already included their associated carbon intensities in your LCA in Section 6.)
+c) Do you process that source mineral in any way (e.g grinding to increase surface area)? What inputs does this processing require (e.g. water, energy)? (You should have already included their associated carbon intensities in your LCA in Section 6.)
 
 <textarea rows='5' cols='50' placeholder='<200 words' />
 
