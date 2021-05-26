@@ -16,7 +16,7 @@
 [mit license]: https://badgen.net/badge/license/MIT/blue
 [cc0 license]: https://badgen.net/badge/license/CC0/gray
 
-This repository contains an unbranded application for soliciting [carbon removal procurement](http://carbonplan.org/research/stripe-2021-insights). It is available in markdown format and released under a Creative Commons CC0 license, to maximize the potential for reuse and iteration. 
+This repository contains an unbranded application for soliciting [carbon removal procurement](http://carbonplan.org/research/stripe-2021-insights). It is available in markdown format and released under a [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license, to maximize the potential for reuse and iteration. 
 
 The raw content is available in the [`markdown`](/markdown) folder. You can see it rendered [here](https://carbon-removal-application.carbonplan.org) via the simple web app also included in this repo.
 
