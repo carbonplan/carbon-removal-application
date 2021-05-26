@@ -16,11 +16,11 @@
 [mit license]: https://badgen.net/badge/license/MIT/blue
 [cc0 license]: https://badgen.net/badge/license/CC0/gray
 
-This repository contains an unbranded application for soliciting [carbon removal procurement](http://carbonplan.org/research/stripe-2021-insights). It is available in markdown format and released under a [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license, to maximize the potential for reuse and iteration. We've made them available in several formats.
+This repository contains an unbranded application for soliciting [carbon removal procurement](http://carbonplan.org/research/stripe-2021-insights). It is available in markdown format and released under a [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license, to maximize the potential for reuse and iteration. We've made the content available in several formats:
 
 - Raw content in the [`markdown`](/markdown) folder
 - Printable versions in the [`pdf`](/pdf) folder
-- Content rendered in a simple [web app](https://carbon-removal-application.carbonplan.org) 
+- Content rendered in a simple [`next`](https://carbon-removal-application.carbonplan.org) website
 
 This application was developed as a collaboration between Stripe and CarbonPlan for Stripe’s [Spring 2021 carbon removal purchase](). We received valuable input and feedback from many organizations and people in the process of developing it, and are grateful for their contributions.
 
