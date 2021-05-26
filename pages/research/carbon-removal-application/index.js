@@ -12,7 +12,7 @@ const Index = () => {
       <Box sx={{ fontSize: [1], my: [2] }}>
         This website contains the contents of a{' '}
         <Link href='https://github.com/carbonplan/carbon-removal-application'>
-          generic open source application
+          general-purpose unbranded open source application
         </Link>{' '}
         for soliciting carbon removal procurement. The application was developed
         as a collaboration between Stripe and CarbonPlan for Stripe’s{' '}
