@@ -37,7 +37,7 @@ a) What is the physical land footprint of your project, and how do you anticipat
   </tr>
 </table>
 
-b) What is the volumetric footprint of your contactor? (How big is your physical machine compared to how much you’re capturing?) and how do you anticipate this will change over the next few years? These numbers should be smaller than (1) above.
+b) What is the volumetric footprint of your contactor? (How big is your physical machine compared to how much you’re capturing?) and how do you anticipate this will change over the next few years? These numbers should be smaller than (a) above.
 
 <table>
   <tr>
