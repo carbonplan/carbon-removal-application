@@ -20,7 +20,7 @@ This repository contains an unbranded application for soliciting [carbon removal
 
 - Raw content in the [`markdown`](/markdown) folder
 - Printable versions in the [`pdf`](/pdf) folder
-- Content rendered in a simple [`next`](https://carbon-removal-application.carbonplan.org) website
+- Content rendered in a simple [`next`](https://carbonplan.org/research/carbon-removal-application) website
 
 This application was developed as a collaboration between Stripe and CarbonPlan for Stripe’s [Spring 2021 carbon removal purchase](). We received valuable input and feedback from many organizations and people in the process of developing it, and are grateful for their contributions.
 
