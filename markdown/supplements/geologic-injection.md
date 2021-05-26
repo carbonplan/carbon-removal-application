@@ -1,11 +1,11 @@
-# Application Supplement: Geologic Injection  
+# Application Supplement: Geologic Injection
 
 _(Made available under a CC0 license)_
 
 _Only fill out this supplement if it applies to you_
 
 Feedstock and Use Case
-What are you injecting? Gas? Supercritical gas? An aqueous solution? What compounds other than C exist in your injected material? 
+What are you injecting? Gas? Supercritical gas? An aqueous solution? What compounds other than C exist in your injected material?
 <50 words
 
 Do you facilitate enhanced oil recovery (EOR), either in this deployment or elsewhere in your operations? If so, please briefly describe. Answering Yes will not disqualify you.
@@ -25,9 +25,3 @@ What are the primary environmental threats associated with this injection projec
 
 What are the key uncertainties to using and scaling this injection method?
 <200 words
-
-
-
-
-
-

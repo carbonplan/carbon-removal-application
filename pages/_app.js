@@ -1,6 +1,6 @@
-import { ThemeProvider } from 'theme-ui'
-import { MDXProvider } from '@mdx-js/react'
-import { tailwind } from '@theme-ui/presets'
+import { ThemeProvider } from "theme-ui";
+import { MDXProvider } from "@mdx-js/react";
+import { tailwind } from "@theme-ui/presets";
 
 const App = ({ Component, pageProps }) => {
   return (
@@ -9,7 +9,7 @@ const App = ({ Component, pageProps }) => {
         <Component {...pageProps} />
       </MDXProvider>
     </ThemeProvider>
-  )
-}
+  );
+};
 
-export default App
+export default App;

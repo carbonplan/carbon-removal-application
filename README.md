@@ -1,6 +1,6 @@
 <img
-  src='https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png'
-  height='48'
+  src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png"
+  height="48"
 />
 
 # carbonplan / carbon-removal-application
@@ -11,7 +11,7 @@ This repository contains a generic, unbranded application for soliciting carbon 
 
 The markdown files can be viewed directly here on GitHub, or in the demo website.
 
-This application was developed as a collaboration between Stripe and CarbonPlan for Stripe’s [Spring  2021 carbon removal purchase](). We received valuable input and feedback from many organizations and people in the process of developing it. 
+This application was developed as a collaboration between Stripe and CarbonPlan for Stripe’s [Spring 2021 carbon removal purchase](). We received valuable input and feedback from many organizations and people in the process of developing it.
 
 ## to build the site locally
 
