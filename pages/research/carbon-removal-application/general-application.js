@@ -1,11 +1,11 @@
-import Application from '../../../markdown/general-application.md'
-import { Box } from 'theme-ui'
+import Markdown from '../../../markdown/general-application.md'
+import Layout from '../../../components/layout'
 
 const Index = () => {
   return (
-    <Box sx={{ width: '800px', my: [5], mx: 'auto' }}>
-      <Application />
-    </Box>
+    <Layout>
+      <Markdown />
+    </Layout>
   )
 }
 

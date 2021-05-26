@@ -1,9 +1,10 @@
 import { default as NextLink } from 'next/link'
 import { Box, Themed, Link } from 'theme-ui'
+import Layout from '../../../components/layout'
 
 const Index = () => {
   return (
-    <Box sx={{ width: '800px', my: [5], mx: 'auto' }}>
+    <Layout>
       <Themed.h1>Carbon Removal Application</Themed.h1>
       <Themed.p>
         <i>(Made available under a CC0 license)</i>
@@ -15,8 +16,8 @@ const Index = () => {
         </Link>{' '}
         for soliciting carbon removal procurement. The application was developed
         as a collaboration between Stripe and CarbonPlan for Stripe’s{' '}
-        <Link>Spring 2021 carbon removal purchase</Link>. You can read more
-        about it in CarbonPlan's <Link>article</Link>. We received valuable
+        <Link href='https://stripe.com/newsroom/news/spring-21-carbon-removal-purchases'>Spring 2021 carbon removal purchase</Link>. You can read more
+        about it in CarbonPlan's <Link href='https://carbonplan.org/research/stripe-2021-insights'>article</Link>. We received valuable
         input and feedback from many organizations and people in the process of
         developing it, and are grateful for their contributions.
       </Box>
@@ -53,7 +54,7 @@ const Index = () => {
           <Link>CO₂ Utilization Supplement</Link>
         </NextLink>
       </Box>
-    </Box>
+    </Layout>
   )
 }
 

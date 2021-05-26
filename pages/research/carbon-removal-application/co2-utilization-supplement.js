@@ -1,11 +1,11 @@
 import Markdown from '../../../markdown/supplements/co2-utilization.md'
-import { Box } from 'theme-ui'
+import Layout from '../../../components/layout'
 
 const Index = () => {
   return (
-    <Box sx={{ width: '800px', my: [5], mx: 'auto' }}>
+    <Layout>
       <Markdown />
-    </Box>
+    </Layout>
   )
 }
 
