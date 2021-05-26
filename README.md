@@ -5,7 +5,7 @@
 
 # carbonplan / carbon-removal-application
 
-**generic application for soliciting carbon removal procurement**
+**application for soliciting carbon removal procurement**
 
 [![GitHub][github-badge]][github]
 ![MIT License][]
