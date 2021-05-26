@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This repository contains markdown files for a General Application as well as all category-specific supplements. All applicants fill out the General Application, as well as whichever supplements that apply to their approach. The application materials currently include supplements for DAC, Biomass, Surface Mineralization, Oceans, Geologic Injection, and CO₂ utilization. Projects may complete one or more supplements.
+This application includes markdown content for a General Application as well as all category-specific supplements. All applicants fill out the General Application, as well as whichever supplements that apply to their approach. The application materials currently include supplements for DAC, Biomass, Surface Mineralization, Oceans, Geologic Injection, and CO₂ utilization. Projects may complete one or more supplements.
 
 Using examples from Stripe’s CDR portfolio:
 - [Climeworks]() would fill out the DAC supplement AND the Geologic Injection supplement. 

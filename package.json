@@ -1,0 +1,30 @@
+{
+  "name": "carbon-removal-application",
+  "version": "1.0.0",
+  "description": "generic application for soliciting carbon removal procurement",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 5001",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonplan/carbon-removal-application.git"
+  },
+  "author": "freeman-lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carbonplan/carbon-removal-application/issues"
+  },
+  "homepage": "https://github.com/carbonplan/carbon-removal-application#readme",
+  "dependencies": {
+    "@next/mdx": "^10.2.3",
+    "@theme-ui/presets": "^0.9.0",
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.9.0"
+  }
+}
