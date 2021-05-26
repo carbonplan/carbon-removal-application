@@ -3,7 +3,7 @@ import { Box } from 'theme-ui'
 
 const Index = () => {
   return (
-    <Box sx={{ width: '800px', mt: [5], mx: 'auto' }}>
+    <Box sx={{ width: '800px', my: [5], mx: 'auto' }}>
       <Markdown />
     </Box>
   )

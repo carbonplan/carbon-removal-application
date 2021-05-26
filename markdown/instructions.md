@@ -1,4 +1,6 @@
-# Carbon Removal Purchase Application
+# Carbon Removal Application
+
+_(Made available under a CC0 license)_
 
 ## Instructions
 
