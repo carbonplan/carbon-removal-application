@@ -1,4 +1,4 @@
-import Markdown from '../markdown/supplements/biomass.md'
+import Markdown from '../../../markdown/instructions.md'
 import { Box } from 'theme-ui'
 
 const Index = () => {

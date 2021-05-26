@@ -21,35 +21,35 @@ const Index = () => {
         developing it, and are grateful for their contributions.
       </Box>
       <Box sx={{ fontSize: [4] }}>
-        <NextLink href='/instructions' passHref>
+        <NextLink href='/research/carbon-removal-application/instructions' passHref>
           <Link>Instructions</Link>
         </NextLink>
         <br />
-        <NextLink href='/general-application' passHref>
+        <NextLink href='/research/carbon-removal-application/general-application' passHref>
           <Link>General Application</Link>
         </NextLink>
         <br />
-        <NextLink href='/dac-supplement' passHref>
+        <NextLink href='/research/carbon-removal-application/dac-supplement' passHref>
           <Link>DAC Supplement</Link>
         </NextLink>
         <br />
-        <NextLink href='/geologic-injection-supplement' passHref>
+        <NextLink href='/research/carbon-removal-application/geologic-injection-supplement' passHref>
           <Link>Geologic Injection Supplement</Link>
         </NextLink>
         <br />
-        <NextLink href='/biomass-supplement' passHref>
+        <NextLink href='/research/carbon-removal-application/biomass-supplement' passHref>
           <Link>Biomass Supplement</Link>
         </NextLink>
         <br />
-        <NextLink href='/ocean-supplement' passHref>
+        <NextLink href='/research/carbon-removal-application/ocean-supplement' passHref>
           <Link>Ocean Supplement</Link>
         </NextLink>
         <br />
-        <NextLink href='/surface-mineralization-supplement' passHref>
+        <NextLink href='/research/carbon-removal-application/surface-mineralization-supplement' passHref>
           <Link>Surface Mineralization Supplement</Link>
         </NextLink>
         <br />
-        <NextLink href='/co2-utilization-supplement' passHref>
+        <NextLink href='/research/carbon-removal-application/co2-utilization-supplement' passHref>
           <Link>CO₂ Utilization Supplement</Link>
         </NextLink>
       </Box>

@@ -1,4 +1,4 @@
-import Markdown from '../markdown/supplements/ocean.md'
+import Markdown from '../../../markdown/supplements/ocean.md'
 import { Box } from 'theme-ui'
 
 const Index = () => {

@@ -1,4 +1,4 @@
-import Markdown from '../markdown/supplements/surface-mineralization.md'
+import Markdown from '../../../markdown/supplements/co2-utilization.md'
 import { Box } from 'theme-ui'
 
 const Index = () => {

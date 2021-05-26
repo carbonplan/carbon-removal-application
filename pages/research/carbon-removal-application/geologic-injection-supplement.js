@@ -1,4 +1,4 @@
-import Markdown from '../markdown/supplements/co2-utilization.md'
+import Markdown from '../../../markdown/supplements/geologic-injection.md'
 import { Box } from 'theme-ui'
 
 const Index = () => {

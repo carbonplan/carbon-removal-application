@@ -1,4 +1,4 @@
-import Markdown from '../markdown/supplements/dac.md'
+import Markdown from '../../../markdown/supplements/dac.md'
 import { Box } from 'theme-ui'
 
 const Index = () => {

@@ -1,10 +1,10 @@
-import Application from '../markdown/general-application.md'
+import Markdown from '../../../markdown/supplements/surface-mineralization.md'
 import { Box } from 'theme-ui'
 
 const Index = () => {
   return (
     <Box sx={{ width: '800px', my: [5], mx: 'auto' }}>
-      <Application />
+      <Markdown />
     </Box>
   )
 }
