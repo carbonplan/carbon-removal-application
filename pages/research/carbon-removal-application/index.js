@@ -23,9 +23,11 @@ const Index = () => {
         <Link href='https://carbonplan.org/research/stripe-2021-insights'>
           article
         </Link>{' '}
-         and get the raw materials in Markdown format from the <Link href='https://github.com/carbonplan/carbon-removal-application'>
+        and get the raw materials in Markdown format from the{' '}
+        <Link href='https://github.com/carbonplan/carbon-removal-application'>
           GitHub repository
-        </Link>. We received valuable input and feedback from many organizations and
+        </Link>
+        . We received valuable input and feedback from many organizations and
         people in the process of developing it, and are grateful for their
         contributions.
       </Themed.p>
