@@ -1,12 +1,10 @@
-# Carbon Removal Application
+# Surface Mineralization Supplement
 
 _(Made available under a CC0 license)_
 
-## Surface Mineralization Supplement
-
 _Only fill out this supplement if it applies to you._
 
-### 1) Source Material and Physical Footprint
+## 1) Source Material and Physical Footprint
 
 a) What source material are you using, and how do you procure it?
 
@@ -122,7 +120,7 @@ f) If you weren’t proceeding with this project, what’s the alternative use(s
 
 <textarea rows='5' cols='50' placeholder='<50 words' />
 
-### 2) Measurement and Verification
+## 2) Measurement and Verification
 
 a) We are aware that the current state of the field may include unknowns about the kinetics of your material. Describe how these unknowns create uncertainties regarding your carbon removal and material, and what you wish you knew.
 
@@ -132,7 +130,7 @@ b) If your materials are deployed extensively, what measurement approaches will 
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-### 3) Human and Ecosystem Impacts, Toxicity Risk
+## 3) Human and Ecosystem Impacts, Toxicity Risk
 
 a) What are the estimated environmental release rates of heavy metals (e.g. Cr, Ni, Pb, Hg)? Dust aerosol hazards? P loading to streams? How will this be monitored?
 

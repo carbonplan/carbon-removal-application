@@ -10,20 +10,22 @@ const Index = () => {
         <i>(Made available under a CC0 license)</i>
       </Themed.p>
       <Themed.p>
-        This website contains the contents of a{' '}
+        This website renders the contents of a{' '}
         <Link href='https://github.com/carbonplan/carbon-removal-application'>
           general-purpose unbranded open source application
         </Link>{' '}
         for soliciting carbon removal procurement. The application was developed
-        as a collaboration between Stripe and CarbonPlan for Stripe’s{' '}
+        as part of a collaboration between Stripe and CarbonPlan for Stripe’s{' '}
         <Link href='https://stripe.com/newsroom/news/spring-21-carbon-removal-purchases'>
           Spring 2021 carbon removal purchase
         </Link>
-        . You can read more about it in CarbonPlan's{' '}
+        . You can read more about the application design in CarbonPlan's{' '}
         <Link href='https://carbonplan.org/research/stripe-2021-insights'>
           article
-        </Link>
-        . We received valuable input and feedback from many organizations and
+        </Link>{' '}
+         and get the raw materials in Markdown format from the <Link href='https://github.com/carbonplan/carbon-removal-application'>
+          GitHub repository
+        </Link>. We received valuable input and feedback from many organizations and
         people in the process of developing it, and are grateful for their
         contributions.
       </Themed.p>

@@ -1,12 +1,10 @@
-# Carbon Removal Application
+# Biomass Supplement
 
 _(Made available under a CC0 license)_
 
-## Biomass Supplement
-
 _Only fill out this supplement if it applies to you._
 
-### 1) Feedstock and Physical Footprint
+## 1) Feedstock and Physical Footprint
 
 a) What type of biomass does your project rely on?
 
@@ -102,7 +100,7 @@ d) Imagine, hypothetically, that you’ve scaled up and are sequestering 100Mt o
   </tr>
 </table>
 
-### 2) Permanence, Additionality, Ecosystem Impacts
+## 2) Permanence, Additionality, Ecosystem Impacts
 
 a) How is your biomass processed to ensure its permanence? What inputs does this process require (e.g. energy, water) and how do you source these inputs? (You should have already included their associated carbon intensities in your LCA in Section 6.)
 

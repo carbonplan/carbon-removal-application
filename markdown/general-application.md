@@ -1,8 +1,6 @@
-# Carbon Removal Application
+# General Application
 
 _(Made available under a CC0 license)_
-
-## General Application
 
 _The General Application applies to everyone, all applicants should complete this._
 
@@ -26,7 +24,7 @@ Brief company or organization description
 
 <textarea rows='5' cols='50' placeholder='<10 words' />
 
-### 1) Overall CDR solution
+## 1) Overall CDR solution
 
 a) Provide a technical explanation of the proposed project, including as much specificity regarding location(s), scale, timeline, and participants as possible. Feel free to include figures.
 
@@ -40,7 +38,7 @@ c) What are the three most important risks your project faces?
 
 <textarea rows='5' cols='50' placeholder='<300 words' />
 
-### 2) Timeline and Permanence
+## 2) Timeline and Permanence
 
 a) Please fill out the table below.
 
@@ -132,7 +130,7 @@ e) How will you quantify the actual permanence/durability of the carbon sequeste
 
 <textarea rows='5' cols='50' placeholder='<200 words' />
 
-### 3) Gross Capacity
+## 3) Gross Capacity
 
 a) Please fill out the table below. _All tonnage should be described in metric tonnes here and throughout the application._
 
@@ -567,7 +565,7 @@ e) What environmental justice concerns apply to your project, if any? How do you
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-## 11) Legal and Regulatory Compliance
+## 8) Legal and Regulatory Compliance
 
 a) What legal opinions, if any, have you received regarding deployment of your solution?
 
@@ -581,7 +579,7 @@ c) In what areas are you uncertain about the legal or regulatory frameworks youâ
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-## 12) Offer
+## 9) Offer
 
 This table constitutes your offer, and will form the basis for contract discussions if you are selected for purchase.
 

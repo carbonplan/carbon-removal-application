@@ -1,12 +1,10 @@
-# Carbon Removal Application
+# CO₂ Utilization Supplement
 
 _(Made available under a CC0 license)_
 
-## CO₂ Utilization Supplement
-
 _Only fill out this supplement if it applies to you._
 
-### 1) Feedstock
+## 1) Feedstock
 
 a) How do you source your CO₂, and from whom?
 
@@ -20,7 +18,7 @@ c) Do you have a pathway towards sourcing atmospheric CO₂ so as to achieve car
 
 <textarea rows='5' cols='50' placeholder='<100 words' />
 
-### 2) Utilization Methods
+## 2) Utilization Methods
 
 a) How does your solution use and store CO₂? What is the gross CO₂ utilization rate? _(E.g. CO₂ is mineralized in Material at a rate of X tCO₂ (gross) / t storage material)_
 

@@ -1,12 +1,10 @@
-# Carbon Removal Application
+# Ocean Supplement
 
 _(Made available under a CC0 license)_
 
-## Ocean Supplement
-
 _Only fill out this supplement if it applies to you._
 
-### 1) Physical Footprint
+## 1) Physical Footprint
 
 a) Describe the geography of your deployment, its relationship to coastlines, shipping channels, other human or animal activity, etc.
 
@@ -20,13 +18,13 @@ c) Imagine, hypothetically, that you’ve scaled up and are sequestering 100Mt o
 
 <textarea rows='5' cols='50' placeholder='<200 words' />
 
-### 2) Potential to Scale
+## 2) Potential to Scale
 
 a) Building large systems on or in the ocean is hard. What are your core engineering challenges and constraints? Is there any historical precedent for the work you propose?
 
 <textarea rows='5' cols='50' placeholder='<200 words' />
 
-### 3) Externalities and Ecosystem Impacts
+## 3) Externalities and Ecosystem Impacts
 
 a) How will you quantify and monitor the impact of your solution on ocean ecosystems, specifically with respect to eutrophication and alkalinity/pH, and, if applicable, ocean turbidity?
 

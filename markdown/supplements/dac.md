@@ -1,14 +1,12 @@
-# Carbon Removal Application
+# DAC Supplement
 
 _(Made available under a CC0 license)_
-
-## DAC Supplement
 
 _Only fill out this supplement if it applies to you._
 
 _Note: these questions are with regards only to air capture: e.g. your air contactors, sorbents or solvents, etc. Separately, there exist Geologic Injection and CO₂ Utilization supplements. We anticipate that most companies filling out this DAC supplement should ALSO fill out one of those supplements to describe their use of the CO₂ stream that’s an output of the capture system detailed here._
 
-### 1) Physical Footprint
+## 1) Physical Footprint
 
 a) What is the physical land footprint of your project, and how do you anticipate this will change over the next few years? This should include your entire physical footprint, i.e., how much land is not available for other use because your project exists.
 
@@ -64,7 +62,7 @@ b) What is the volumetric footprint of your contactor? (How big is your physical
   </tr>
 </table>
 
-### 2) Capture Materials and Processes
+## 2) Capture Materials and Processes
 
 a) What sorbent or solvent are you using?
 
