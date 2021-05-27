@@ -22,7 +22,7 @@ This repository contains an unbranded application for soliciting [carbon removal
 - Printable versions in the [`pdf`](/pdf) folder
 - Content rendered in a simple [`next`](https://carbonplan.org/research/carbon-removal-application) website
 
-This application was developed as a collaboration between Stripe and CarbonPlan for Stripe’s [Spring 2021 carbon removal purchase](). We received valuable input and feedback from many organizations and people in the process of developing it, and are grateful for their contributions.
+This application was developed as a collaboration between Stripe and CarbonPlan for Stripe’s [Spring 2021 carbon removal purchase](https://stripe.com/newsroom/news/spring-21-carbon-removal-purchases). We received valuable input and feedback from many organizations and people in the process of developing it, and are grateful for their contributions.
 
 ## to build the site locally
 
@@ -46,4 +46,4 @@ All the code in this repository is [MIT](https://choosealicense.com/licenses/mit
 
 ## about us
 
-CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of carbon removal and climate solutions through open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/cdr-database/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
+CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of carbon removal and climate solutions through open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/carbon-removal-application/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
